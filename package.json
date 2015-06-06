@@ -1,0 +1,7 @@
+{
+	"name":socket-chatApp",
+
+	"version":"0.1",
+	"description":"SPR working on a chat app",
+	 "dependencies":{}
+}
